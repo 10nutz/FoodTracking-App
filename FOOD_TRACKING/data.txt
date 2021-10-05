@@ -1,0 +1,18 @@
+lapte,250,5,1.5,3
+paine,266,7,50,3
+iaurt,62,11,4,0
+branza,150,16,3,0
+ou,250,0,0,0
+iaurt,170,1,1,1
+ceapa,130,1,2,3
+morcov,150,2,3,4
+kiwi,100,2,3,4
+mango,150,2,3,4
+napolitane,100,5.4,2.3,5
+lapte praf,250,100,20,5
+golden apple,160,2,0,1
+usturoi,100,2,1.5,3
+pizza,500,600,25,20
+lime,10,10,10,10
+supa,20,12,4,5
+guma,1,2,3,4

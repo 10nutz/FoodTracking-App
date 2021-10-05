@@ -1,0 +1,76 @@
+﻿  FOOD_TRACKING.cpp
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\user.h(7): warning C4091: 'inline ': ignored on left of 'User::activity' when no variable is declared
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\user.h(8): warning C4091: 'inline ': ignored on left of 'User::goal' when no variable is declared
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\user.h(9): warning C4091: 'inline ': ignored on left of 'User::metabolism' when no variable is declared
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\user.h(10): warning C4091: 'inline ': ignored on left of 'User::BMI' when no variable is declared
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(45,38): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(48,42): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(53,38): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(61,42): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(64,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(69,42): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(73,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(75,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(84,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(87,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(92,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(96,54): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(98,54): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(107,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(109,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1074,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1276,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1326,38): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1334,42): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1342,46): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1350,50): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1360,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1365,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1370,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1375,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1389,38): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1397,42): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1405,46): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1413,50): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1423,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1428,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1433,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1438,54): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1459,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1501,34): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1509,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1545,38): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1553,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1588,42): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1596,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1632,46): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1640,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1709,34): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1717,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1778,38): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1786,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1846,42): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1854,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1915,46): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1923,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1961,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1971,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1976,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1985,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1990,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(1999,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2004,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2013,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2018,26): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2034,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2039,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2048,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2053,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2062,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2067,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2076,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(2081,22): warning C4018: '<': signed/unsigned mismatch
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(134): warning C4715: 'calc_prot': not all control paths return a value
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(172): warning C4715: 'calc_carb': not all control paths return a value
+E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\FOOD_TRACKING\FOOD_TRACKING.cpp(115): warning C4715: 'calc_cal': not all control paths return a value
+  FOOD_TRACKING.vcxproj -> E:\Calculatoare\Anul 1\FOOD TRACKING\FOOD_TRACKING\Debug\FOOD_TRACKING.exe
